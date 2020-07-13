@@ -1,0 +1,59 @@
+html, body {
+  background: url('rock-n-roll-monkey-LEPhZkQbUrk-unsplash.jpg') center center no-repeat;
+  background-size: cover;
+  color: white;
+  height: 100%;
+  width: 100%;
+}
+
+.content {
+  margin: auto;
+  margin-top: 20px;
+  width: 70%;
+  height: auto;
+  background-color: #ebde2a;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.title {
+  
+  padding-top: 100px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 3em;
+  letter-spacing: 0.15rem;
+  color: #ebde2a;
+}
+
+.examples_title {
+
+  font-size: medium;
+  color: #000;
+
+}
+
+.para {
+
+  font-size: small;
+  color: #000;
+
+}
+
+
+label {
+  color: #333;
+}
+
+.result-container {
+  text-align: center;
+  font-weight: 600;
+  font-size: 4em;
+  letter-spacing: 0.15rem;
+  padding: 20px 0 0;
+}
+
+#result {
+  color: #000;
+}
